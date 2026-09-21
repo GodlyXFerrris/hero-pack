@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9776EBB2-7E8B-407B-9FC8-139B7C40CCE9",
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/netflix.mp4",
+    "backgroundURL": "https://i.postimg.cc/dV0FDyRK/image.png",
+    "logoURL": "ttps://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "81BD7BA6-3BD2-4F3D-9D5E-AF101B78A7C0",
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/hbomax.mp4",
+    "backgroundURL": "https://i.postimg.cc/0QZt1v32/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "572AA72D-46A5-41B7-9264-2AD8173211CC",
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/disneyplus.mp4",
+    "backgroundURL": "https://i.postimg.cc/mgHFHGYT/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+    {
+    "id": "E39B540D-4015-4BBB-AE16-3DAA97640E9E",
+    "title": "Crunchyroll",
+    "videoURL": "https://github.com/GodlyXFerrris/dump/raw/refs/heads/main/videos/Crunchyroll%20-%20Intro%20(2024)%20%5BjFJjCMPUTpE%5D.mp4",
+    "backgroundURL": "https://i.postimg.cc/YCtcZmDs/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "2E0DC4A9-D25B-4821-A726-6FD879879EA8",
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/amazonprime.mp4",
+    "backgroundURL": "https://i.postimg.cc/PqfTkWrK/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "8903A944-347C-4440-9781-FDF0B6F29B44",
+    "title": "Paramount",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/paramount.mp4",
+    "backgroundURL": "https://i.postimg.cc/YSpp6Pwm/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "2374975F-C711-4445-8AD7-E0B43DDBD996",
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/appletv.mp4",
+    "backgroundURL": "https://i.postimg.cc/gj8fhj2k/image.png",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  },
+  {
+    "id": "4509D315-35DA-460E-BD0A-902AD4C3902D",
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/hulu.mp4",
+    "backgroundURL": "https://i.postimg.cc/N0YFyyyX/Hulu.jpg",
+    "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
+  }
+]
